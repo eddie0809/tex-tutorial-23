@@ -1,0 +1,25 @@
+# Exclude temporary and unnecessary file and folders
+
+# Documentation
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# IDE stuff
+.idea
+.vscode
+.~lock*
