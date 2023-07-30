@@ -1,0 +1,10 @@
+sphinx
+furo
+myst-parser
+myst_parser
+nbsphinx
+numpy
+pandas
+matplotlib
+scipy
+setuptools
