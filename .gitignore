@@ -25,9 +25,9 @@ venv.bak/
 .~lock*
 
 # Temporary files
-.aux
-.fdb_latexmk
-.fls
-.log
-.out
-.toc
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
